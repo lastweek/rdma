@@ -1,2 +1,2 @@
-# rdma
-Restless Dump Memory Assassinate
+# RDMA
+Restless Dumb Memory Assassinate
